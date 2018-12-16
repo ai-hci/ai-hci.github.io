@@ -1,9 +1,23 @@
-In recent years, AI systems have become both more powerful and increasingly promising for integration in a variety of application areas. Attention has also been called to the social challenges these systems bring, particularly in how they might fail or even actively disadvantage marginalised social groups, or how their opacity might make them difficult to oversee and challenge. In the context of these and other challenges, the roles of humans working in tandem with these systems will be important, yet the HCI community has been only a quiet voice in these debates to date. This workshop aims to catalyse and crystallise an agenda around HCI and AI. Topics of interest include methods to collaboratively explore AI systems to identify unusual failure modes; identifying, methods to capture and replicate social practices of critical engagement and oversight with AI systems; integrating insights from AI systems with complementary human insights; avoiding over- and under-reliance while preserving enjoyable user experiences; creating useable ML/AI systems for HCI practitioners; and modes of engagement with novel AI 'users', such as those captured and represented in training sets.
+## In Short
+WAI-HCI '19
 
+In recent years, AI systems have become both more powerful and increasingly promising for integration in a variety of application areas. Attention has also been called to the social challenges these systems bring, particularly in how they might fail or even actively disadvantage marginalised social groups, or how their opacity might make them difficult to oversee and challenge. In the context of these and other challenges, the roles of humans working in tandem with these systems will be important, yet the HCI community has been only a quiet voice in these debates to date. **This workshop aims to catalyse and crystallise an agenda around HCI and AI**. Topics of interest (See [Guiding Research Questions](guiding-research-questions) ) include methods to collaboratively explore AI systems to identify unusual failure modes; identifying, methods to capture and replicate social practices of critical engagement and oversight with AI systems; integrating insights from AI systems with complementary human insights; avoiding over- and under-reliance while preserving enjoyable user experiences; creating useable ML/AI systems for HCI practitioners; and modes of engagement with novel AI 'users', such as those captured and represented in training sets.
+
+## Call for Participation
+
+We invite submissions for a one-day workshop to discuss critical questions in bringing the human into the development and deployment of artificial intelligence (AI) systems.\
+
+Papers should be 2-4 pages long in the CHI Extended Abstract format, and may address any topics related to the intersections of HCI, AI, and machine learning. This includes but is not limited to ongoing work; reflections on past work; combining methods from HCI and design to AI; and emergent ethical, political, and social challenges. A set of [guiding research questions](guiding-research-questions) has been provided below for guidance.
+
+The due date for submissions is no later than February 12, 2019 by email (*to be confirmed*). Participants will be selected based on the quality and clarity of their submissions as they reflect the interests of the workshop. Notifications will go out no later than March 1, 2019. At least one author of each accepted position paper must attend the workshop, and all participants must register for both the workshop and at least one day of the conference.
+
+Participants will be selected based on their prior experience and interest in the workshop as well as the quality of their submissions. We will focus on recruiting from a diverse group of participants, with a balance of students and faculty; industry practitioners and academic audiences; contribution areas within HCI and AI research; and representation of different cultures, genders, and races.
+
+## Background
 
 Advances in deep machine learning as well as hardware have pushed the development of artificial intelligence (AI) systems. By developing machine learning (ML) techniques to process large volumes and modalities of data, by turning voluminous sources of data into signals, and by providing robust predictions of critical outcomes, AI systems can both supplement and replace human-decision making \[36\]. AI has begun to make great strides in many problems of societal significance and has already made contributions to tasks like development and poverty \[21\], education \[18\], agriculture and the environment \[10,33\], and healthcare \[22\]. At the same time, AI has begun to expand our ability to make important decisions in business, law, finance, and politics \[2,3,6,13,23,25,32\], to more easily reach and help vulnerable populations \[7,8,20\], to predict health and wellbeing \[5,9\], to more quickly detect people at risk of poor outcomes and provide early interventions \[31\], and sometimes to identify actionable or personalized solutions \[4,19\].
 
-However, in recent year, with the pervasive adoption and prevalence of AI systems in real-world contexts, they have also raised the concerns of both researchers and practitioners for issues of bias, accountability, fairness, and discrimination. To solve these problems, machine learning researchers and practitioners have focused on providing mathematical insights to correct issues such as bias, discrimination, and transparency of algorithm choice. These researchers have focused on improving the algorithms themselves to correct for bias \[11,17,30\] and improve interpretability \[28,38\]. This area has seend tremendous group in the past few years as can be seen in the many outlets for this work including the ACM Fairness, Accountability, and Transparency (FAT\*) conference[^1] and multiple iterations of FAT- workshops (FAT/ML for recommendations, FATREC for recommender systems, etc) at premier ML conferences. This work is providing important computational prerequisites and scaffolding necessary for responsible deployment of machine learning.
+However, in recent years, with the pervasive adoption and prevalence of AI systems in real-world contexts, they have also raised the concerns of both researchers and practitioners for issues of bias, accountability, fairness, and discrimination. To solve these problems, machine learning researchers and practitioners have focused on providing mathematical insights to correct issues such as bias, discrimination, and transparency of algorithm choice. These researchers have focused on improving the algorithms themselves to correct for bias \[11,17,30\] and improve interpretability \[28,38\]. This area has seend tremendous group in the past few years as can be seen in the many outlets for this work including the [ACM Fairness, Accountability, and Transparency (FAT\*) conference](www.fatconference.org) and multiple iterations of FAT- workshops (FAT/ML for recommendations, FATREC for recommender systems, etc) at premier ML conferences. This work is providing important computational prerequisites and scaffolding necessary for responsible deployment of machine learning.
 
 However, the **human** is still a critical, if not the central component of many scenarios where AI is being advocated as both an assistant or augmentation for human intelligence. While most AI systems offer robust empirical performance for real-world problems, many of these approaches are developed opaquely and in isolation, without appropriate involvement of the human stakeholders who use these systems or are most affected by them. As the following fictional exemplar implies \[26\]: "*\[..\] we can't just tell the doctor 'my neural network says this patient has cancer!' The doctor just won't accept that!*". Human involvement in AI system design, development, and evaluation is critical \[16\] to ensure that the insights being derived are practical, and the systems built are meaningful and relatable to those who need them. Some recent HCI work has focussed on adoption issues of this kind \[35,37\], but it remains unclear how the characteristics of emerging AI technologies may interact with existing understanding around decision-support or expert systems in-the-wild.
 
@@ -13,7 +27,7 @@ Summarily, despite the importance of people in the development, deployment, and 
 
 **This one-day workshop will explore critical questions in bringing the human more into the development and deployment of AI systems, and work to unite HCI research methods and concerns with AI.** Our workshop will support 25-30 participants across topical and methodological areas that relate to the interplay of HCI and AI --- including machine learning and AI, HCI methods complementary to understanding AI, critical AI studies, and domain applications such as employment and labor, future of work, health care, and moderation.
 
-Guiding Questions and Research Agenda
+Guiding Research Questions
 =====================================
 
 Our workshop provides an opportunity for researchers and practitioners interested in the intersection of HCI and AI to come together to share interests and discuss ways to move the field forward. We provide a set of guiding questions for the community to consider:
@@ -35,45 +49,21 @@ Our workshop provides an opportunity for researchers and practitioners intereste
 Organizers
 ==========
 
-This group of workshop organizers was selected to reflect expertise at the intersection of AI and HCI, and also represent the diversity we hope to recruit for participants. They have a strong past and current history of collaboration in various scope, capacities, and formats on projects at the intersection of AI and HCI. Additionally, they also have experience running successful workshops at CHI, CSCW and other HCI conferences.
+**[Kori Inkpen](https://www.microsoft.com/en-us/research/people/kori/)** is a Principal Researcher at Microsoft Research where she leads the Social Technologies research team. Dr. Inkpen's research interests are currently focused on Human+AI Collaboration to enhance decision making, particularly in high-impact social contexts which inevitably delves into issues of Bias and Fairness in AI. Kori has been a core member of the CHI community for over 20 years.
 
-**Kori Inkpen** is a Principal Researcher at Microsoft Research where she leads the Social Technologies research team. Dr. Inkpen's research interests are currently focused on Human+AI Collaboration to enhance decision making, particularly in high-impact social contexts which inevitably delves into issues of Bias and Fairness in AI. Kori has been a core member of the CHI community for over 20 years.
+**[Munmun De Choudhury](http://www.munmund.net/)** is an Assistant Professor in the School of Interactive Computing at Georgia Tech where she directs the Social Dynamics and Wellbeing Lab. Dr. De Choudhury's research interests lie at the intersection of machine learning, social media, and health, with a focus on assessing, understanding, and improving mental health from online social interactions.
 
-**Munmun De Choudhury** is an Assistant Professor in the School of Interactive Computing at Georgia Tech where she directs the Social Dynamics and Wellbeing Lab. Dr. De Choudhury's research interests lie at the intersection of machine learning, social media, and health, with a focus on assessing, understanding, and improving mental health from online social interactions.
+**[Stevie Chancellor](http://steviechancellor.com/)** is a PhD Candidate in Human Centered Computing at Georgia Tech. She researches data-driven algorithms to understand deviant mental health behavior in online communities. Her work combines techniques from machine learning and data science with human-centered insights around online communities and mental health, focusing on identifying and predicting content from pro-eating disorder communities on social networks.
 
-**Stevie Chancellor** is a PhD Candidate in Human Centered Computing at Georgia Tech. She researches data-driven algorithms to understand deviant mental health behavior in online communities. Her work combines techniques from machine learning and data science with human-centered insights around online communities and mental health, focusing on identifying and predicting content from pro-eating disorder communities on social networks.
+**[Michael Veale](https://michae.lv)** is a doctoral researcher in responsible public sector machine learning at the Dept. of Science, Technology, Engineering & Public Policy at University College London. His work spans HCI, law and policy, looking at how societal and legal concerns around machine learning are understood and coped with on the ground.
 
-**Michael Veale** is a doctoral researcher in responsible public sector machine learning at the Dept. of Science, Technology, Engineering & Public Policy at University College London. His work spans HCI, law and policy, looking at how societal and legal concerns around machine learning are understood and coped with on the ground.
+**[Eric P.S Baumer](http://ericbaumer.com/)** is an Assistant Professor of Computer Science and Engineering at Lehigh University. His research focuses on interactions with AI and machine learning algorithms in the context of social computing systems. Recent work includes using computational tools to identify the language of political framing, and studying technology refusal in the context of Facebook.
 
-**Eric P.S Baumer** is an Assistant Professor of Computer Science and Engineering at Lehigh University. His research focuses on interactions with AI and machine learning algorithms in the context of social computing systems. Recent work includes using computational tools to identify the language of political framing, and studying technology refusal in the context of Facebook.
 
-Pre-Workshop Plans
-==================
 
-Website
--------
+## Proposed Schedule 
 
-A website will be created for the workshop as both a repository for materials and to solicit participation (http://aka.ms/WhereIsTheHuman). The website will include the Call for Papers (detailed on the sidebar), resources for case studies, the biography of our invited speaker, position papers, and post-workshop plans and updates.
-
-Recruitment
------------
-
-We will promote the workshop through a variety of channels (Facebook CHI Meta page; Researchers of the Socio-Technical Facebook Page; Twitter); as well as channels to recruit industry professionals (mailing lists) as well as colleagues from the machine learning community (FAT\*, AIES, ICML) in addition to HCI. Local participation will be encouraged through the Scottish SICSA-HCI mailing list.
-
-**Call For Participation**\
-We invite submissions for a one-day workshop to discuss critical questions in bringing the human into the development and deployment of artificial intelligence (AI) systems.\
-Papers should be 2-4 pages long in the CHI Extended Abstract format, and may address any topics related to the intersections of HCI, AI, and machine learning. This includes but is not limited to ongoing work; reflections on past work; combining methods from HCI and design to AI; and emergent ethical, political, and social challenges. A set of guiding questions has been provided on the workshop website for guidance.\
-The due date for submissions is no later than February 12, 2019 by email. Participants will be selected based on the quality and clarity of their submissions as they reflect the interests of the workshop. Notifications will go out no later than March 1, 2019. At least one author of each accepted position paper must attend the workshop, and all participants must register for both the workshop and at least one day of the conference.
-
-Participants will be selected based on their prior experience and interest in the workshop as well as the quality of their submissions. We will focus on recruiting from a diverse group of participants, with a balance of students and faculty; industry practitioners and academic audiences; contribution areas within HCI and AI research; and representation of different cultures, genders, and races.
-
-Workshop Structure
-==================
-
-Proposed Schedule and Activity Breakdown
-----------------------------------------
-
-**Invited Speaker**. We will recruit an invited speaker from the interdisciplinary area of HCI and machine learning, who will be invited to give a talk related to interpretable and transparent machine learning which is a necessity to better enable Human+AI Collaboration. We will follow this with a Q&A period for the participants of the workshop.
+**Invited Speaker**. TBC
 
 **Researcher "Speed Dating"**. Participants will line up and get 60 seconds to introduce themselves to another member of the workshop as well as a brief description of their research and what they hope to get out of participating in the workshop. This will serve as an ice breaker activity for participants, and we have found this particular style of introduction very effective in past workshops.
 
@@ -91,23 +81,24 @@ One or more case studies will be selected based on participant interest in the p
 
 **Next Steps**. Brainstorm important next steps to continue these conversations and strengthen the community of HCI researchers working on Human+AI problems and facilitate rich collaborations with others disciplines. Additionally, we will discuss ways we can have broader impact by ensuring that this topic is central to HCI education.
 
-Post Workshop Plans
--------------------
+## Proposed Schedule
+0900 - Welcome and Introduction
+0915 - Keynote speaker + Q & A
+1015 - Mid-morning break
+1030 - Speed dating for introductions
+1100 - Brainstorm key areas for HCI growth
+1200 - Lunch break
+1300 - Case-Study Breakout Groups
+1430 - Mid-afternoon break
+1500 - Report back from Case-Studies
+1600 - Brainstorm next steps
+1700 - Workshop concludes
+
+## Post Workshop Plans
 
 We plan to take the ideas generated from the workshop and write a public facing blog post (e.g., a Medium article) on the argument \"Where is the human in the AI\". We will also take insights gleaned from the next steps brainstorming and prioritize a few action items that members of the workshop will engage in after the workshop. This could include plans for follow-up symposiums, multi-disciplinary workshops or curriculum tools.
 
-**Proposed Schedule**\
-0900 - Welcome and Introduction\
-0915 - Keynote speaker + Q & A\
-1015 - Mid-morning break\
-1030 - Speed dating for introductions\
-1100 - Brainstorm key areas for HCI growth\
-1200 - Lunch break\
-1300 - Case-Study Breakout Groups\
-1430 - Mid-afternoon break\
-1500 - Report back from Case-Studies\
-1600 - Brainstorm next steps\
-1700 - Workshop concludes
+## References
 
 1\. Eric P. S. Baumer. 2017. Toward Human-Centered Algorithm Design. *Big Data & Society* 4, 2. <https://doi.org/10.1177/2053951717718854>
 
