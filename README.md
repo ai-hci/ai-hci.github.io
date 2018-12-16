@@ -1,2 +1,3 @@
-# Designing for Data Rights
-This is a placeholder page for a proposed academic workshop.
+# Where is the Human? Bridging the Gap Between AI and HCI
+## A workshop at CHI 2019
+
