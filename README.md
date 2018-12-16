@@ -1,13 +1,14 @@
-## In Short
-WAI-HCI '19
+{:toc}
 
-In recent years, AI systems have become both more powerful and increasingly promising for integration in a variety of application areas. Attention has also been called to the social challenges these systems bring, particularly in how they might fail or even actively disadvantage marginalised social groups, or how their opacity might make them difficult to oversee and challenge. In the context of these and other challenges, the roles of humans working in tandem with these systems will be important, yet the HCI community has been only a quiet voice in these debates to date. **This workshop aims to catalyse and crystallise an agenda around HCI and AI**. Topics of interest (See [Guiding Research Questions](guiding-research-questions) ) include methods to collaboratively explore AI systems to identify unusual failure modes; identifying, methods to capture and replicate social practices of critical engagement and oversight with AI systems; integrating insights from AI systems with complementary human insights; avoiding over- and under-reliance while preserving enjoyable user experiences; creating useable ML/AI systems for HCI practitioners; and modes of engagement with novel AI 'users', such as those captured and represented in training sets.
+## In Short
+
+In recent years, AI systems have become both more powerful and increasingly promising for integration in a variety of application areas. Attention has also been called to the social challenges these systems bring, particularly in how they might fail or even actively disadvantage marginalised social groups, or how their opacity might make them difficult to oversee and challenge. In the context of these and other challenges, the roles of humans working in tandem with these systems will be important, yet the HCI community has been only a quiet voice in these debates to date. **This workshop aims to catalyse and crystallise an agenda around HCI and AI**. Topics of interest (See [Guiding Research Questions](#guiding-research-questions)) include methods to collaboratively explore AI systems to identify unusual failure modes; identifying, methods to capture and replicate social practices of critical engagement and oversight with AI systems; integrating insights from AI systems with complementary human insights; avoiding over- and under-reliance while preserving enjoyable user experiences; creating useable ML/AI systems for HCI practitioners; and modes of engagement with novel AI 'users', such as those captured and represented in training sets.
 
 ## Call for Participation
 
 We invite submissions for a one-day workshop to discuss critical questions in bringing the human into the development and deployment of artificial intelligence (AI) systems.\
 
-Papers should be 2-4 pages long in the CHI Extended Abstract format, and may address any topics related to the intersections of HCI, AI, and machine learning. This includes but is not limited to ongoing work; reflections on past work; combining methods from HCI and design to AI; and emergent ethical, political, and social challenges. A set of [guiding research questions](guiding-research-questions) has been provided below for guidance.
+Papers should be 2-4 pages long in the CHI Extended Abstract format, and may address any topics related to the intersections of HCI, AI, and machine learning. This includes but is not limited to ongoing work; reflections on past work; combining methods from HCI and design to AI; and emergent ethical, political, and social challenges. A set of [guiding research questions](#guiding-research-questions) has been provided below for guidance.
 
 The due date for submissions is no later than February 12, 2019 by email (*to be confirmed*). Participants will be selected based on the quality and clarity of their submissions as they reflect the interests of the workshop. Notifications will go out no later than March 1, 2019. At least one author of each accepted position paper must attend the workshop, and all participants must register for both the workshop and at least one day of the conference.
 
@@ -83,15 +84,25 @@ One or more case studies will be selected based on participant interest in the p
 
 ## Proposed Schedule
 0900 - Welcome and Introduction
+
 0915 - Keynote speaker + Q & A
+
 1015 - Mid-morning break
+
 1030 - Speed dating for introductions
+
 1100 - Brainstorm key areas for HCI growth
+
 1200 - Lunch break
+
 1300 - Case-Study Breakout Groups
+
 1430 - Mid-afternoon break
+
 1500 - Report back from Case-Studies
+
 1600 - Brainstorm next steps
+
 1700 - Workshop concludes
 
 ## Post Workshop Plans
