@@ -13,11 +13,11 @@ In recent years, AI systems have become both more powerful and increasingly prom
 
 ## Call for Participation
 
-*We invite submissions for a one-day workshop to discuss critical questions in bringing the human into the development and deployment of artificial intelligence (AI) systems.*
+**We invite submissions for a one-day workshop to discuss critical questions in bringing the human into the development and deployment of artificial intelligence (AI) systems.**
 
-Papers should be **2-4 pages long** in the [CHI Extended Abstract](https://chi2019.acm.org/authors/chi-proceedings-format/) format, and may address any topics related to the intersections of HCI, AI, and machine learning. This includes but is not limited to ongoing work; reflections on past work; combining methods from HCI and design to AI; and emergent ethical, political, and social challenges. A set of [guiding research questions](#guiding-research-questions) has been provided below for guidance.
+Papers should be **2-4 pages long** in the [CHI Extended Abstract](https://chi2019.acm.org/authors/chi-proceedings-format/) format, and may address any topics related to the intersections of HCI, AI, and machine learning. This includes but is not limited to ongoing work; reflections on past work; combining methods from HCI and design to AI; and emergent ethical, political, and social challenges. A set of **[guiding research questions](#guiding-research-questions)** has been provided below for guidance.
 
-The due date for submissions is no later than February 12, 2019 by email (*submission method to be confirmed*). Participants will be selected based on the quality and clarity of their submissions as they reflect the interests of the workshop. Notifications will go out no later than March 1, 2019. At least one author of each accepted position paper must attend the workshop, and all participants must register for both the workshop and at least one day of the conference.
+The **due date for submissions is no later than February 12, 2019** by email (*submission method to be confirmed*). Participants will be selected based on the quality and clarity of their submissions as they reflect the interests of the workshop. Notifications will go out no later than March 1, 2019. At least one author of each accepted position paper must attend the workshop, and all participants must register for both the workshop and at least one day of the conference.
 
 Participants will be selected based on their prior experience and interest in the workshop as well as the quality of their submissions. We will focus on recruiting from a diverse group of participants, with a balance of students and faculty; industry practitioners and academic audiences; contribution areas within HCI and AI research; and representation of different cultures, genders, and ethnic backgrounds.
 
