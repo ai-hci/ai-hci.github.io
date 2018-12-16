@@ -1,4 +1,11 @@
-{:toc}
+* [In Short](#in-short)
+* [Call for Participation](#call-for-participation)
+* [Context](#context)
+* [Guiding Research Questions](#guiding-research-questions)
+* [Organizers](#organizers)
+* [Schedule and Activities](#schedule-and-activities)
+* [Post Workshop Plans](#post-workshop-plans)
+* [References](#references)
 
 ## In Short
 
@@ -6,15 +13,15 @@ In recent years, AI systems have become both more powerful and increasingly prom
 
 ## Call for Participation
 
-We invite submissions for a one-day workshop to discuss critical questions in bringing the human into the development and deployment of artificial intelligence (AI) systems.\
+*We invite submissions for a one-day workshop to discuss critical questions in bringing the human into the development and deployment of artificial intelligence (AI) systems.*
 
-Papers should be 2-4 pages long in the CHI Extended Abstract format, and may address any topics related to the intersections of HCI, AI, and machine learning. This includes but is not limited to ongoing work; reflections on past work; combining methods from HCI and design to AI; and emergent ethical, political, and social challenges. A set of [guiding research questions](#guiding-research-questions) has been provided below for guidance.
+Papers should be **2-4 pages long** in the [CHI Extended Abstract](https://chi2019.acm.org/authors/chi-proceedings-format/) format, and may address any topics related to the intersections of HCI, AI, and machine learning. This includes but is not limited to ongoing work; reflections on past work; combining methods from HCI and design to AI; and emergent ethical, political, and social challenges. A set of [guiding research questions](#guiding-research-questions) has been provided below for guidance.
 
-The due date for submissions is no later than February 12, 2019 by email (*to be confirmed*). Participants will be selected based on the quality and clarity of their submissions as they reflect the interests of the workshop. Notifications will go out no later than March 1, 2019. At least one author of each accepted position paper must attend the workshop, and all participants must register for both the workshop and at least one day of the conference.
+The due date for submissions is no later than February 12, 2019 by email (*submission method to be confirmed*). Participants will be selected based on the quality and clarity of their submissions as they reflect the interests of the workshop. Notifications will go out no later than March 1, 2019. At least one author of each accepted position paper must attend the workshop, and all participants must register for both the workshop and at least one day of the conference.
 
-Participants will be selected based on their prior experience and interest in the workshop as well as the quality of their submissions. We will focus on recruiting from a diverse group of participants, with a balance of students and faculty; industry practitioners and academic audiences; contribution areas within HCI and AI research; and representation of different cultures, genders, and races.
+Participants will be selected based on their prior experience and interest in the workshop as well as the quality of their submissions. We will focus on recruiting from a diverse group of participants, with a balance of students and faculty; industry practitioners and academic audiences; contribution areas within HCI and AI research; and representation of different cultures, genders, and ethnic backgrounds.
 
-## Background
+## Context
 
 Advances in deep machine learning as well as hardware have pushed the development of artificial intelligence (AI) systems. By developing machine learning (ML) techniques to process large volumes and modalities of data, by turning voluminous sources of data into signals, and by providing robust predictions of critical outcomes, AI systems can both supplement and replace human-decision making \[36\]. AI has begun to make great strides in many problems of societal significance and has already made contributions to tasks like development and poverty \[21\], education \[18\], agriculture and the environment \[10,33\], and healthcare \[22\]. At the same time, AI has begun to expand our ability to make important decisions in business, law, finance, and politics \[2,3,6,13,23,25,32\], to more easily reach and help vulnerable populations \[7,8,20\], to predict health and wellbeing \[5,9\], to more quickly detect people at risk of poor outcomes and provide early interventions \[31\], and sometimes to identify actionable or personalized solutions \[4,19\].
 
@@ -25,8 +32,6 @@ However, the **human** is still a critical, if not the central component of many
 It is also important to prevent unintended consequences, and alleviate various risks stemming from bias, errors, irresponsible use, misaligned expectations, privacy concerns, and potential issues around lack of trust, interpretability, and accountability. Moreover, human activities and behaviors are deeply contextual, nuanced, and laden with subjectivity -- aspects that many current AI systems often fail to account for adequately \[24\]. We need to be able to transcribe AI systems in interactive, usable, and actionable technologies that function in the natural contexts of all human stakeholders in a bias-free manner. This, in turn, requires augmenting these systems with orthogonal but complementary human-centered insights, that go beyond aggregated assessments and inferences to ones that factor in individuals' differences, demands, values, expectations, and preferences \[12,29\]. Finally, the success of AI systems in the real world requires multi-disciplinary partnerships who bring diverse perspectives to solve these problems which are as much human problems as they are AI.
 
 Summarily, despite the importance of people in the development, deployment, and use of AI systems, Human Computer Interaction (HCI) is often not a core component of these research questions. While AI researchers have recently begun to note this important gap in popular discourse, e.g., "*Despite its name, there is nothing 'artificial' about this technology -- it is made by humans, intended to behave like humans and affects humans. So if we want it to play a positive role in tomorrow's world, it must be guided by human concerns*."[^2], we argue that more comprehensive inclusion of HCI's unique perspectives are essential to solving these challenging societal questions. Therefore, through this workshop, we ask the fundamental question: *Where is the human in AI research?*
-
-**This one-day workshop will explore critical questions in bringing the human more into the development and deployment of AI systems, and work to unite HCI research methods and concerns with AI.** Our workshop will support 25-30 participants across topical and methodological areas that relate to the interplay of HCI and AI --- including machine learning and AI, HCI methods complementary to understanding AI, critical AI studies, and domain applications such as employment and labor, future of work, health care, and moderation.
 
 Guiding Research Questions
 =====================================
@@ -61,8 +66,9 @@ Organizers
 **[Eric P.S Baumer](http://ericbaumer.com/)** is an Assistant Professor of Computer Science and Engineering at Lehigh University. His research focuses on interactions with AI and machine learning algorithms in the context of social computing systems. Recent work includes using computational tools to identify the language of political framing, and studying technology refusal in the context of Facebook.
 
 
+## Schedule and Activities
 
-## Proposed Schedule 
+The (proposed) schedule includes:
 
 **Invited Speaker**. TBC
 
@@ -82,7 +88,8 @@ One or more case studies will be selected based on participant interest in the p
 
 **Next Steps**. Brainstorm important next steps to continue these conversations and strengthen the community of HCI researchers working on Human+AI problems and facilitate rich collaborations with others disciplines. Additionally, we will discuss ways we can have broader impact by ensuring that this topic is central to HCI education.
 
-## Proposed Schedule
+**Timings**:
+
 0900 - Welcome and Introduction
 
 0915 - Keynote speaker + Q & A
