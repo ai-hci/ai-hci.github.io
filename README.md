@@ -55,7 +55,8 @@ Our workshop provides an opportunity for researchers and practitioners intereste
 Organizers
 ==========
 
-|---
+| Photo | Bio |
+|         ---: |          ---: |
 | | **[Kori Inkpen](https://www.microsoft.com/en-us/research/people/kori/)** is a Principal Researcher at Microsoft Research where she leads the Social Technologies research team. Dr. Inkpen's research interests are currently focused on Human+AI Collaboration to enhance decision making, particularly in high-impact social contexts which inevitably delves into issues of Bias and Fairness in AI. Kori has been a core member of the CHI community for over 20 years. |
 | | **[Munmun De Choudhury](http://www.munmund.net/)** is an Assistant Professor in the School of Interactive Computing at Georgia Tech where she directs the Social Dynamics and Wellbeing Lab. Dr. De Choudhury's research interests lie at the intersection of machine learning, social media, and health, with a focus on assessing, understanding, and improving mental health from online social interactions. |
 | ![Photo of Stevie](../photos/sc_s.png) | **[Stevie Chancellor](http://steviechancellor.com/)** is a PhD Candidate in Human Centered Computing at Georgia Tech. She researches data-driven algorithms to understand deviant mental health behavior in online communities. Her work combines techniques from machine learning and data science with human-centered insights around online communities and mental health, focusing on identifying and predicting content from pro-eating disorder communities on social networks. |
